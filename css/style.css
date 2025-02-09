@@ -431,6 +431,9 @@ a {
 
 /*footer-form-container*/
 
+.form-container {
+  margin-left: 80px;
+}
 .form-container-text {
   margin-bottom: 16px;
   font-weight: 500;
